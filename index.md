@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Category Presentations - Dashboards 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/https://teste-1-render.onrender.com/)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
