@@ -1,10 +1,19 @@
 title: Renan L. Brito
 logo: "Design sem nome.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br> As a Physics and Mathematics teacher, I have always been passionate about understanding the world around me. My curiosity and analytical skills led me to discover a personal interest in the financial market and predictive analysis of prices. This portfolio is a showcase of my personal projects developed in Python, where I apply my knowledge and expertise to create insightful and impactful solutions. I am excited to share my work with you and invite you to explore the possibilities of data science with me<br>
-  Second description 
-  <br><br>
+ <style>
+.justified {
+  text-align: justify;
+}
+</style>
+</head>
+<body>
+
+<p class="justified">As a Physics and Mathematics teacher, I have always been passionate about understanding the world around me. My curiosity and analytical skills led me to discover a personal interest in the financial market and predictive analysis of prices. This portfolio is a showcase of my personal projects developed in Python, where I apply my knowledge and expertise to create insightful and impactful solutions. I am excited to share my work with you and invite you to explore the possibilities of data science with me.</p>
+
+<p class="justified">Second description</p>
+
+</body>
   <a href="https://www.linkedin.com/in/renanldbr/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
