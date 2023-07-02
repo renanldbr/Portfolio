@@ -10,7 +10,7 @@ This project analyzes a pair of stocks traded on the Brazilian stock exchange an
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](#) [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](#) [![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) 
 
-<img src="pdf/l&s1" /> <img src="pdf/l&s2" /> <img src="pdf/l&s3" />
+<img src="pdf/lands1" /> <img src="pdf/lands2" /> <img src="pdf/landss3" />
 
 ---
 ---
