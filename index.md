@@ -4,7 +4,7 @@
 
 ### LINEAR REGRESSION FOR LONG & SHORT BY COINTEGRATION 
 This project analyzes a pair of stocks traded on the Brazilian stock exchange and presents fundamental data for Long & Short operations. In this project, I used linear regression to find the equation of the operation, correlation and the standard residual deviation.
-The application was deployed on a free platform, which can cause delays in the page loading.
+<br>The application was deployed on a free platform, which can cause delays in the page loading.
 
 [Long & Short Dashboard](https://dashboard-longandshort.onrender.com)
 
