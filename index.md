@@ -13,6 +13,9 @@ This project analyzes a pair of stocks traded on the Brazilian stock exchange an
 <img src="pdf/lands1.jpg?raw=true" /> 
 
 ---
+
+### K-Means for clustering of shares with similar indicators traded on B3(/sample_page.md)
+
 ---
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
