@@ -14,7 +14,9 @@ This project analyzes a pair of stocks traded on the Brazilian stock exchange an
 
 ---
 
-### K-Means for clustering of shares with similar indicators traded on B3(/sample_page.md)
+### K-Means for clustering of shares with similar indicators traded on B3
+The proposal for this project arose from the following question: what if we could group the companies listed on B3 based on their financial indicators from the last year and, from these groups, build a stock portfolio aimed at asset appreciation? After all, the vast majority...
+[Keep the reading](balanco_b3_2022_12_31)
 
 ---
 ---
